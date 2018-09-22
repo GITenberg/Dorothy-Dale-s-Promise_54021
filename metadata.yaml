@@ -1,0 +1,32 @@
+_repo: Dorothy-Dale-s-Promise_54021
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2017-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Girls -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- GITenberg
+title: Dorothy Dale's Promise
+url: http://www.gutenberg.org/ebooks/54021
